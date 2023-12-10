@@ -39,11 +39,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution as an
        
   ![image](https://github.com/Andrea-Decasenave/ticket-lifecycle/assets/150068516/aaecf06d-83fd-455d-a81c-a71a48c55567)
   
-- Make one more for Karen Select the topic **General Inquiry** and write in the summary "When are we getting a new hardware reset" 
+- Make one more for Karen Select the topic **General Inquiry** and write in the summary "When are we getting a new hardware reset" and in details write "Moast of my department is having issues wiht thei current tablets, we need this ASAP,PLease provide info" 
 - Repeat the same proccess for your other user "Ken" but this time choose the Help Topic **Personal Computer Issues** and write this in summary "entire accounting dept adobe reader not working" and in details "Ever since the upgrade lastnight, no one has been able to access adobe reader.
 
   
-<h2>Assignment and Communication</h2>
+<h2>Assignment,Communication and Resoution</h2>
 
 - Use the Help desk Log in:http://localhost/osTicket/scp/login.php link and log in as Jane (Remember we wrote down her credentials in notepad) and make sure you are in the admin panel
 - Once in admin panel click on the **Tickets** tab and click on the **entire mobile backing is down** ticket
@@ -56,10 +56,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution as an
 ![image](https://github.com/Andrea-Decasenave/ticket-lifecycle/assets/150068516/43fd6e92-ca29-42bf-a68c-c99f20fc271e)
 
   Now we are going to work on Kens ticket
-  - click on "entire accounting dept adobe reader not working"  and set the priority to high since it encludes and entrie dept and not just one person
+  - click on "entire accounting dept adobe reader not working"  and set the priority to high since it includes an entrie dept and not just one person
   - The clikc next to **Assign to** and assign it to **John**
-  - Set the SLA plan to SEV-B and in the text box under Responce write "Re-assigned to SEV-B, reached out to John for warm hand"
+  - Set the SLA plan to SEV-B and in the text box under Responce write "Re-assigned to SEV-B, reached out to John for warm hand off"
   - Finally click **Post Reply**
+![image](https://github.com/Andrea-Decasenave/ticket-lifecycle/assets/150068516/1b814dd2-e680-4dcf-b07e-23a7801c1bad)
+![image](https://github.com/Andrea-Decasenave/ticket-lifecycle/assets/150068516/5f8951f2-5ba7-4404-b60c-26dff9d65cb6)
+
+
+  
+  
+  
+  
+  
+  For Karen's second ticket "when are we getting a new hardware refresh" set the **Priority** to low then Set the **Assign to** Jane doe
+- Set the **SLA** paln to SEV-C since its not and urget matter
+- Then at the bottom wirte "Hardware refresh is slated for Q1. If you like you and your dept can start testing the new units today.just shoot me an email." change the ticket status to **resolved** and post the reply
+![image](https://github.com/Andrea-Decasenave/ticket-lifecycle/assets/150068516/2887c2e4-9ee9-47ce-9df0-43843a7e966e)
+![image](https://github.com/Andrea-Decasenave/ticket-lifecycle/assets/150068516/c19e9539-985c-42ce-97f6-f303f2009469)
+
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
