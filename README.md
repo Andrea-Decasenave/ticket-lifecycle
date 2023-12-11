@@ -76,24 +76,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution as an
 ![image](https://github.com/Andrea-Decasenave/ticket-lifecycle/assets/150068516/c19e9539-985c-42ce-97f6-f303f2009469)
 
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Now we are going to solve the ticket we assign to John doe
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Log out of OsTicket and log in as john doe(we wrote the username and password on notepad app)
+- Once logged in go to the tickets tab where the tickets should appear
+- in  the details write " Rolled back version of Adobe reader to previous version allowing them to work in mean time, I will reasearch why the new version doesn't work on the accounting departments hardware"
+- Change the ticket status to **Resolved** then Post Reply
+
+
+<h2>Clean up</h2>
+- Go to azure portal and make sure to delete botht the Resource group and the Virtual machine and then you are done
+  
+
